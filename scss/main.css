@@ -27,6 +27,7 @@ img {
   font-weight: bold;
   text-transform: uppercase;
   z-index: 1;
+  cursor: pointer;
 }
 
 .logo ion-icon {
@@ -46,6 +47,7 @@ img {
   right: 100px;
   line-height: 80px;
   z-index: 1;
+  cursor: pointer;
 }
 
 .menu {
@@ -55,6 +57,7 @@ img {
   top: 4px;
   line-height: 80px;
   z-index: 1;
+  cursor: pointer;
 }
 
 .menu ion-icon {
@@ -126,6 +129,7 @@ button {
   font-size: 12px !important;
   letter-spacing: 4px;
   font-weight: 300;
+  cursor: pointer;
 }
 
 #one {
@@ -153,6 +157,7 @@ button {
   color: grey;
   padding: 12px 0;
   display: inline-block !important;
+  cursor: pointer;
 }
 
 .bottom-text {
